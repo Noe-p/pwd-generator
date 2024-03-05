@@ -1,6 +1,6 @@
 {
   "name": "@noe-p/pwd-generator",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Utility package to generate a random password with a given length",
   "main": "generatePassword.js",
   "scripts": {
